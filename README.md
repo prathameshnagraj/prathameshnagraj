@@ -62,14 +62,14 @@
 🎖️ Graduate Scholar Recognition
 
 **📍 Manipal Academy of Higher Education**  
-🎓 *B.Tech in Electrical & Electronics Engineering* (April 2021)
+🎓 *B.Tech in Electrical & Electronics Engineering* (April 2022)
 
 ---
 
 ## 🏆 Certifications
 
 - ✅ **Power BI Data Analyst Associate – Microsoft**
-- ✅ **SnowPro® Core Certified – Snowflake**
+- ✅ **SnowPro® Associate Certified – Snowflake**
 
 ---
 
