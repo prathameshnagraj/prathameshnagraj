@@ -2,7 +2,7 @@
 <h3 align="center">🔍 Business Analytics | 📊 BI Developer | 🤖 GenAI Explorer | 🎓 MS @ UT Dallas</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/prathameshnagraj" target="_blank">
+  <a href="https://www.linkedin.com/in/prathamesh-nagraj/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:ppnagraj.work@gmail.com">
