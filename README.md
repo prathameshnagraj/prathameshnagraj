@@ -1,58 +1,93 @@
 <h1 align="center">Hi 👋, I'm Prathamesh Nagraj</h1>
-<h3 align="center">Business Analytics | BI & GenAI | MS in Business Analytics & AI @ UT Dallas</h3>
+<h3 align="center">🔍 Business Analytics | 📊 BI Developer | 🤖 GenAI Explorer | 🎓 MS @ UT Dallas</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/prathameshnagraj" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:ppnagraj.work@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/-Resume-gray?style=for-the-badge&logo=docuSign&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F78D1E&center=true&vCenter=true&width=435&lines=Data+into+Insight%2C+Insight+into+Impact.;BI+Developer+%7C+GenAI+Applier.;Open+to+Internships+%26+Full-Time+Roles" alt="Typing SVG" />
+</p>
+
+---
+
+### 🧠 About Me
+
+🚀 I’m a **Business Analytics Professional** passionate about solving business problems with **data, dashboards, and AI**.  
+🔍 I’ve automated reporting pipelines, designed enterprise-grade dashboards, and built AI tools using **RAG, LangChain, and ChromaDB**.  
+🎓 Currently pursuing my **MS in Business Analytics & Artificial Intelligence** at **UT Dallas** (May 2025).
+
+---
+
+### 🛠️ Tech Toolbox
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LangChain-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Projects
+
+| 📌 Project | 📝 Description | ⚙️ Tools |
+|-----------|----------------|----------|
+| [🧠 Project Adaran](#) | RAG chatbot for university queries from 1,500+ pages, 80% accuracy | `LangChain`, `Mistral`, `ChromaDB`, `Streamlit` |
+| [📈 Loan Rate Prediction](#) | ML regression model analyzing financial indicators | `Python`, `Pandas`, `Scikit-learn`, `Matplotlib` |
+| [📉 Conagra FMCG Insights](#) | Identified $67M market gap via regression on consumer panel data | `Excel`, `Python`, `OLS`, `EDA` |
+
+---
+
+### 🎓 Education
+
+**The University of Texas at Dallas**  
+*MS in Business Analytics & Artificial Intelligence*  
+📍 May 2025 | 🎖️ Graduate Scholar Recognition
+
+**Manipal Academy of Higher Education, India**  
+*B.Tech in Electrical & Electronics Engineering*  
+📍 April 2021
+
+---
+
+### 🏆 Certifications
+
+- ✅ Microsoft Certified: Power BI Data Analyst Associate  
+- ✅ SnowPro® Associate: Platform  
+
+---
+
+### 📬 Get In Touch
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/prathameshnagraj)  
+- 📧 [Email](mailto:ppnagraj.work@gmail.com)  
+- 📄 [Resume](#) *(add your Drive or hosted link)*  
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prathameshnagraj&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prathameshnagraj&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshnagraj&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 💡 About Me
-
-- 🎓 Master’s student in Business Analytics & AI @ UT Dallas (May 2025)
-- 📊 Ex-BI Consultant with 2+ years of experience in Power BI, SQL, Python, and ERP systems
-- 🤖 Exploring the intersection of **Business Intelligence** and **Generative AI**
-- 🚀 Built Power BI solutions for SAP, Salesforce, and AWS Redshift-based datasets
-- 🧠 Recently built a RAG-based university chatbot using LangChain, Mistral, and ChromaDB
-- 🎯 Currently seeking **internships and full-time roles** in **Data Analytics, BI, and GenAI**
-
----
-
-### 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white" />
-  <img src="https://img.shields.io/badge/-LangChain-000000?style=flat&logo=data&logoColor=green" />
-  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" />
-</p>
-
----
-
-### 📌 Featured Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [🧠 JSOM AI Chatbot](#) | Chatbot built with RAG pipeline to answer student queries using 1,500+ webpages | `LangChain`, `Mistral`, `ChromaDB`, `Streamlit` |
-| [📈 Loan Interest Rate Prediction](#) | ML model to predict loan interest rates using real-world lending data | `Python`, `Pandas`, `Scikit-learn`, `Matplotlib` |
-| [📊 Power BI Portfolio](#) | 15+ dashboards for finance and marketing using SAP, Salesforce, Redshift data | `Power BI`, `DAX`, `SQL`, `Excel` |
-| [📉 Conagra Sales Analysis](#) | Identified $67M whitespace for FMCG brand using panel data and regression | `Excel`, `OLS`, `Python`, `EDA` |
-
----
-
-### 📫 Contact Me
-
-- 📧 Email: [ppnagraj.work@gmail.com](mailto:ppnagraj.work@gmail.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/prathameshnagraj)  
-- 📄 [Resume](#)
-
----
-
-<p align="center">“Turning data into insight, and insight into impact.”</p>
+<p align="center"><i>“I don’t just work with data. I speak its language and tell its stories.”</i></p>
