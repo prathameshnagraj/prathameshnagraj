@@ -49,7 +49,7 @@
 
 | 💼 Project | Description | Tools |
 |-----------|-------------|-------|
-| **[🧠 Project Adaran](#)** | Built a RAG-based chatbot answering university queries across 1,500+ docs with ~80% accuracy | `LangChain`, `Mistral`, `ChromaDB`, `Streamlit` |
+| **[🧠 Project Adaran](https://github.com/prathameshnagraj/adaran.git)** | Built a RAG-based chatbot answering university queries across 1,500+ docs with ~80% accuracy | `LangChain`, `Mistral`, `ChromaDB`, `Streamlit` |
 | **[📈 Loan Rate Prediction](#)** | Created ML regression model for predicting loan interest rates from economic indicators | `Python`, `Pandas`, `Scikit-learn`, `Matplotlib` |
 | **[📉 Conagra FMCG Insights](#)** | Discovered $67M market gap using regression + EDA on consumer panel data | `Excel`, `OLS`, `Python`, `Power BI` |
 
