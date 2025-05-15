@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F78D1E&center=true&vCenter=true&width=435&lines=Data+into+Insight%2C+Insight+into+Impact.;BI+Developer+%7C+GenAI+Applier.;Open+to+Internships+%26+Full-Time+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F78D1E&center=true&vCenter=true&width=800&lines=Data+into+Insight%2C+Insight+into+Impact.;BI+Developer+%7C+GenAI+Applier.;Open+to+Internships+%26+Full-Time+Roles" alt="Typing SVG" />
 </p>
 
 ---
