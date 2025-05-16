@@ -8,7 +8,7 @@
   <a href="mailto:ppnagraj.work@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://your-resume-link.com">
+  <a href="https://drive.google.com/file/d/1m2xUO6h7FuuSj6vhiz0Nj_iqSkUlKFIo/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-View-gray?style=for-the-badge&logo=docuSign&logoColor=white" />
   </a>
 </p>
