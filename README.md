@@ -50,7 +50,7 @@
 | 💼 Project | Description | Tools |
 |-----------|-------------|-------|
 | **[🧠 Project Adaran](https://github.com/prathameshnagraj/adaran.git)** | Built a RAG-based chatbot answering university queries across 1,500+ docs with ~80% accuracy | `LangChain`, `Mistral`, `ChromaDB`, `Streamlit` |
-| **[📈 Loan Rate Prediction](#)** | Created ML regression model for predicting loan interest rates from economic indicators | `Python`, `Pandas`, `Scikit-learn`, `Matplotlib` |
+| **[📈 Loan Rate Prediction](https://github.com/prathameshnagraj/loan-interest-rate-prediction)** | Created ML regression model for predicting loan interest rates from economic indicators | `Python`, `Pandas`, `Scikit-learn`, `Matplotlib` |
 | **[📉 Conagra FMCG Insights](https://github.com/prathameshnagraj/conagra-meat-substitute-sales)** | Discovered $67M market gap using regression + EDA on consumer panel data | `Excel`, `OLS`, `Python` |
 
 ---
@@ -87,6 +87,10 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshnagraj&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prathameshnagraj&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile view counter" />
 </p>
 
 ---
