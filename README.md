@@ -25,7 +25,7 @@
 
 - 💡 Experienced in building **RAG-based chatbots**, streamlining dashboards, and driving **data-driven decisions**
 - 🛠️ Proven skills in **Python, Power BI, LangChain, Azure, SQL, Streamlit**, and more
-- 📍 Currently pursuing MS in **Business Analytics & AI @ UT Dallas** (May 2025)
+- 📍 Graduated with an MS in **Business Analytics & AI @ UT Dallas** (May 2025)
 
 ---
 
