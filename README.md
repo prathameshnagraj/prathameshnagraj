@@ -8,7 +8,7 @@
   <a href="mailto:ppnagraj.work@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/drive/u/2/folders/1QtSIg3SQ2TPtbb1WYIuSXhZMI_Wqockx">
+  <a href="[https://drive.google.com/file/d/1m2xUO6h7FuuSj6vhiz0Nj_iqSkUlKFIo/view?usp=drive_link](https://drive.google.com/file/d/1KnUI8rc7ngDj0QTtIlGOKZHXDUjoW6AG/view?usp=drive_link)">
     <img src="https://img.shields.io/badge/Resume-Download-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
   <a href="https://github.com/prathameshnagraj">
@@ -190,19 +190,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathameshnagraj&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshnagraj&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshnagraj&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshnagraj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
@@ -217,7 +209,7 @@ I'm actively seeking **full-time opportunities** in **Business Intelligence Deve
   <a href="mailto:ppnagraj.work@gmail.com">
     <img src="https://img.shields.io/badge/Email-ppnagraj.work@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/drive/u/2/folders/1QtSIg3SQ2TPtbb1WYIuSXhZMI_Wqockx">
+  <a href="https://drive.google.com/file/d/1m2xUO6h7FuuSj6vhiz0Nj_iqSkUlKFIo/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-View_PDF-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 </p>
