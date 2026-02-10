@@ -8,7 +8,7 @@
   <a href="mailto:ppnagraj.work@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/1m2xUO6h7FuuSj6vhiz0Nj_iqSkUlKFIo/view?usp=drive_link">
+  <a href="https://drive.google.com/drive/u/2/folders/1QtSIg3SQ2TPtbb1WYIuSXhZMI_Wqockx">
     <img src="https://img.shields.io/badge/Resume-Download-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
   <a href="https://github.com/prathameshnagraj">
